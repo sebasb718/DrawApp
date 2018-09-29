@@ -1,0 +1,11 @@
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\bin\Debug\netcoreapp2.1\DrawingApplication.deps.json
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\bin\Debug\netcoreapp2.1\DrawingApplication.runtimeconfig.json
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\bin\Debug\netcoreapp2.1\DrawingApplication.runtimeconfig.dev.json
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\bin\Debug\netcoreapp2.1\DrawingApplication.dll
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\bin\Debug\netcoreapp2.1\DrawingApplication.pdb
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\obj\Debug\netcoreapp2.1\DrawingApplication.csprojAssemblyReference.cache
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\obj\Debug\netcoreapp2.1\DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\obj\Debug\netcoreapp2.1\DrawingApplication.AssemblyInfoInputs.cache
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\obj\Debug\netcoreapp2.1\DrawingApplication.AssemblyInfo.cs
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\obj\Debug\netcoreapp2.1\DrawingApplication.dll
+C:\Users\JuanSebastian\Desktop\DrawApp\DrawingApplication\obj\Debug\netcoreapp2.1\DrawingApplication.pdb
