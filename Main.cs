@@ -7,7 +7,7 @@ namespace Main
     {
         static void Main()
         {
-            Console.WriteLine("Starting, please wait");
+            Console.WriteLine("Starting program, please wait");
             System.Threading.Thread.Sleep(1000);
             Console.Clear();
             DrawingTool.StartProgram();
